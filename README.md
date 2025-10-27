@@ -38,8 +38,6 @@ Identifiants MySQL communs à tous les exercices :
 
 Utilisateur : root
 
-Mot de passe : 123456789
-
 Port : 3306
 
 Bases utilisées :
@@ -133,14 +131,6 @@ Requêtes avancées via JPQL et Named Queries
 Lancement
 cd exercice3
 mvn clean compile exec:java -Dexec.mainClass="ma.projet.main.TestProgram"
-
-🚀 Guide de Démarrage Rapide
-
-Cloner le dépôt
-
-git clone https://github.com/Satsujii/Evaluation.git
-cd Evaluation
-
 
 Configurer MySQL
 
